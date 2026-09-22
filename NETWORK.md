@@ -1,16 +1,10 @@
-# 👐 Zion App Network — Interlinks
+# AI Services
 
-**ai-services** is part of the Zion Tech Group app network (630+ apps).
+AI Services — Zion Tech Group.
 
-- 🗂 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Core Site & Hubs](https://github.com/Zion-support/zion-network/blob/main/network/core-site-hubs.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [agents](https://github.com/Zion-support/agents) · [tools](https://github.com/Zion-support/tools) · [it-consulting](https://github.com/Zion-support/it-consulting) · [managed-it](https://github.com/Zion-support/managed-it) · [zion-discovery](https://github.com/Zion-support/zion-discovery)
 
-## Related apps
-- [agents](https://github.com/Zion-support/agents) — AI agents hub
-- [tools](https://github.com/Zion-support/tools) — AI tools catalog
-- [case-studies](https://github.com/Zion-support/case-studies) — customer case studies
-- [it-consulting](https://github.com/Zion-support/it-consulting) — IT consulting services
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
